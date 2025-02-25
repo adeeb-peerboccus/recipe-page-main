@@ -1,0 +1,107 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Outfit", serif;
+  font-size: small;
+  font-weight: 400;
+
+}
+
+h1, h3 {
+  font-family: "Young Serif", serif;
+  font-weight: 400;
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+h1 {
+  font-size: 2rem;
+  color: hsl(24, 5%, 18%);
+
+}
+
+
+.viewport {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: hsl(30, 54%, 90%);
+
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  max-width: 475px;
+  margin: 20px;
+  background-color: white;
+  padding: 20px;
+  border-radius: 15px;
+  gap: 20px;
+}
+
+
+.banner {
+  max-width: 100%;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.prep__wrapper {
+  background-color: hsl(330, 100%, 98%);
+  width: 100%;
+  border-radius: 10px;
+}
+
+.prep__time {
+  text-indent: 2rem;
+  margin: 10px 0 10px 0;
+}
+
+.prep__time h4 {
+  font-size: 1.2rem;
+  color: hsl(332, 51%, 32%);
+  margin-bottom: 5px;
+  font-weight: 600;
+}
+
+.prep__list {
+  padding-left: 5px;
+}
+
+ul {
+  list-style-position: inside;
+}
+
+ol {
+  list-style-position: inside;
+  padding-left: 1rem;
+
+}
+
+p, li {
+  color: hsl(30, 10%, 34%);
+}
+
+h3 {
+  color: hsl(14, 45%, 36%);
+}
+
+li {
+  line-height: 1.25;
+  margin-bottom: 0.5rem;
+}
+
+
+ol li {
+  text-indent: -1rem;
+}
+
+.bold__text {
+  font-weight: bold;
+}
+
