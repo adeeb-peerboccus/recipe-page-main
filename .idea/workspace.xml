@@ -7,7 +7,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="655c6dd3-ed1f-47e5-91a2-e7a9bc6072ae" name="Changes" comment="deleted unnecessary files" />
+    <list default="true" id="655c6dd3-ed1f-47e5-91a2-e7a9bc6072ae" name="Changes" comment="deleted unnecessary files">
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +79,7 @@
       <updated>1740506707259</updated>
       <workItem from="1740506709784" duration="420000" />
       <workItem from="1740507150907" duration="1450000" />
-      <workItem from="1740508689860" duration="11945000" />
+      <workItem from="1740508689860" duration="12170000" />
     </task>
     <task id="LOCAL-00001" summary="First commit not yet completed">
       <option name="closed" value="true" />
