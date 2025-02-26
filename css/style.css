@@ -126,3 +126,11 @@ td {
 }
 
 
+@media only screen and (max-width: 375) {
+  .banner{
+    max-width: 100%;
+
+  }
+
+}
+
