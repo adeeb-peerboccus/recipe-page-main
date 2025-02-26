@@ -7,8 +7,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="655c6dd3-ed1f-47e5-91a2-e7a9bc6072ae" name="Changes" comment="deleted unnecessary files">
+    <list default="true" id="655c6dd3-ed1f-47e5-91a2-e7a9bc6072ae" name="Changes" comment="@media first commit">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +84,7 @@
       <workItem from="1740506709784" duration="420000" />
       <workItem from="1740507150907" duration="1450000" />
       <workItem from="1740508689860" duration="15281000" />
-      <workItem from="1740564059507" duration="176000" />
+      <workItem from="1740564059507" duration="1250000" />
     </task>
     <task id="LOCAL-00001" summary="First commit not yet completed">
       <option name="closed" value="true" />
@@ -139,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740564118962</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="@media first commit">
+      <option name="closed" value="true" />
+      <created>1740564275087</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1740564275087</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,6 +173,7 @@
     <MESSAGE value="First commit not yet completed/removed to slash from favicon" />
     <MESSAGE value="completion push data" />
     <MESSAGE value="deleted unnecessary files" />
-    <option name="LAST_COMMIT_MESSAGE" value="deleted unnecessary files" />
+    <MESSAGE value="@media first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="@media first commit" />
   </component>
 </project>
