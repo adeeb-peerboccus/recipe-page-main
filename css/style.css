@@ -117,7 +117,7 @@ td {
 }
 
 
-@media (max-width: 375px) {
+@media screen and (width: 475px) {
 
   .wrapper {
     display: flex;
@@ -130,7 +130,7 @@ td {
   }
 
   .banner {
-    max-width: 100%;
+    width: 100%;
   }
 
   .viewport {
